@@ -51,7 +51,7 @@ body{
 }
 .sideimg
 {
-    background-image: url("/Lunch2-new_xexpaz.jpg");
+    background-image: url("./image/Lunch2-new_xexpaz.jpg");
     width: 40%;
     height: 525px;
     background-size: cover;
