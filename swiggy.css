@@ -1,0 +1,378 @@
+body{
+    margin: 0%;
+}
+.frst
+{
+    background-color: rgb(255, 255, 255);
+    width:100%;
+    height: 525px;
+}
+#head
+{
+    padding-top: 65px;
+    padding-left: 115px;
+    width: 45%;
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+}
+#button
+{
+
+    height: 56px;
+    display: flex;
+   
+}
+#login
+{
+
+    background-color: transparent;
+    border: 0px;
+    height: 40px;
+    font-weight:bolder;
+    
+}
+#login:hover
+{
+    color: orange;
+}
+#signup
+{
+    color: white;
+    background-color: black;
+    width:100px;
+    height: 40px;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+#logo
+{
+    padding-left:35px;
+}
+.sideimg
+{
+    background-image: url("/Lunch2-new_xexpaz.jpg");
+    width: 40%;
+    height: 525px;
+    background-size: cover;
+    position: absolute;
+    left: 910px;
+    top: 0px;
+}
+    
+.content1
+{
+    width: 45%;
+    height: 150px;
+    padding-left: 150px;
+}
+#hun
+{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    color: rgb(70, 70, 72);
+}
+#ord
+{
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    font-size: 20px;
+    color: rgb(107, 106, 106);
+}
+.search
+{
+    width: 60%;
+    height: 207px;
+    padding-left: 150px;
+}
+#input
+{
+    font-size: small;
+    border: 1px solid orange;
+    width: 450px;
+    height: 51px;
+    border-radius: 2px;
+}
+#buttonin
+{
+    width: 97px;
+    height: 30px;
+    position: absolute;
+    top: 336px;
+    right: 914px;
+    background-color: transparent;
+    border: 0;
+    color: #9f9fa2;
+    font-weight: bold;
+    font-size: small;
+    border-radius: 3px;
+}
+#buttonin:hover
+{
+    background-color: #d8d7d7;
+}
+#food
+{
+    color: white;
+    background-color: orange;
+    border: 0;
+    width: 108;
+    height: 55px;
+    position: absolute;
+    right: 828px;
+    border-radius: 2px;
+}
+#content2
+{
+    color: rgb(84, 81, 81);
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    font-weight: bold;
+    padding-top: 25px;
+}
+.list
+{
+    display: flex;
+    list-style: none;
+    margin: -40px;
+    padding-top: 10px;
+    list-style: none;
+    color: black;
+    
+}
+.list1{
+    margin-left: 30px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.pune
+{
+    padding-top: 33px;
+    cursor: pointer
+}
+.second
+{
+    background-color: #2b1e16;
+    width: 100%;
+    height: 400px;
+    display: flex;
+
+}
+.thump
+{
+    width: 33.3333333333%;
+   height: 400px;
+
+}
+.thmpimg
+{
+    padding-left: 182px;
+}
+.thmpcon1
+{
+    padding-left: 173px;
+    width: 33.3333%;
+    color: white;
+}
+.thmpcon2
+{
+    padding-left: 120px;
+    color: white;
+}
+
+.live
+{
+    width: 33.3333333333%;
+    height: 400px; 
+
+}
+.liveimg
+{
+    padding-left: 182px;
+}
+.livecon1
+{
+    padding-left: 173px;
+    color: white;
+   
+}
+.livecon2
+{
+    padding-left: 120px;
+    color: white;
+}
+.delivery
+{
+       width: 33.3333333333%;
+    height: 400px; 
+}
+.delimg
+{
+    padding-left: 182px;
+}
+.delcon1
+{
+    padding-left: 173px;
+    width: 33%;
+    color: white;
+}
+.delcon2
+{
+    padding-left: 120px;
+    color: white;
+}
+.thrd
+{
+    width: 100%;
+    height:570px ;
+   }
+.plystr
+{
+    width: 200px;
+    position: absolute;
+    left: 200px;
+    top: 1254px;
+}
+.ios
+{
+    width: 200px;
+    position: absolute;
+    left: 425px;
+    top: 1254px; 
+}
+.pixel
+{
+    width: 368px;
+    position: absolute;
+    left: 720px;
+    top: 925px;
+}
+.iphone
+{
+    width: 360px;
+    position: absolute;
+    left: 1100px;
+    top: 1037px;
+}
+.textcontent
+{
+    width: 17%;
+    height: 86px;
+    padding-left: 195px;
+    padding-top: 100px;
+
+}
+.textcontent2
+{
+    width: 25%;
+    height: 86px;
+    padding-left: 198px; 
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    font-weight: lighter;
+    color: #5f5e5e;
+    padding-top: 35px;
+}
+.frth
+{
+    background-color: black;
+    width: 100%;
+    height: 510px;
+    color: rgb(248, 244, 240);
+    display: flex;
+
+}
+.com
+{
+    width: 225px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.con{
+    width: 225px;
+    margin-top: 20px;
+}
+.leg{
+    width: 300px;
+    margin-top: 20px;
+
+}
+.frth ul,h2{
+    margin: 0;
+}
+.list2{
+    list-style: none;
+    cursor: pointer
+}
+.listh1
+{
+    padding-left: 33px;
+    
+}
+.listh2
+{
+    padding-left: 44px;
+}
+.listh3
+{
+    padding-left: 71px;
+}
+.footerimg
+{
+    padding-top: 70px;
+    padding-left: 250px;
+}
+.footply
+{
+    width:200px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.footios
+{
+    width:200px;
+    border:1px solid;
+    border-radius: 10px;
+}
+.footply:hover
+{
+    width:205px;
+    cursor: pointer;
+}
+.footios:hover
+{
+    width:205px;
+    cursor: pointer;
+}
+
+.fifth
+{
+    background-color: black;
+    height: 90px;
+    padding: 0 120px 0 120px;
+    
+}
+.footdiv
+{
+    border-top:solid 2px white ;
+    display: flex;
+    justify-content: space-between;
+}
+#footlogo
+{
+    width: 150px;
+    padding-top: 20px;
+}
+.socialmedia
+{
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    width: 120px;
+}
+.swiggycopyright{
+    padding-top: 20px;
+    color: aliceblue;
+}
+.icn:hover
+{
+    cursor: pointer;
+}
